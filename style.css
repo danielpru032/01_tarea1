@@ -9,6 +9,11 @@
 .box {
   width: 350px;
   margin: 0 auto;
+  /*  border-style: solid;
+  border-color: rgb(118, 115, 111);
+  padding: 2px; */
+  border-radius: 12px;
+  box-shadow: 10px 10px 5px lightblue;
 }
 .label_1 {
   color: rgb(118, 115, 111);
