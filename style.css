@@ -1,0 +1,40 @@
+.p_color {
+  color: rgb(118, 115, 111);
+}
+
+.image {
+  width: 100%;
+  border-radius: 15px;
+}
+.box {
+  width: 350px;
+  margin: 0 auto;
+}
+.label_1 {
+  color: rgb(118, 115, 111);
+  border-style: solid;
+  border-color: rgb(118, 115, 111);
+  border-radius: 12px;
+  padding: 2px;
+}
+.label_2 {
+  color: rgb(118, 115, 111);
+  border-style: solid;
+  border-color: rgb(118, 115, 111);
+  border-radius: 12px;
+  padding: 2px;
+}
+.button_box {
+  top: 50%;
+  background-color: #17aed4;
+  color: #fff;
+  border: none;
+  border-radius: 70px;
+  padding: 15px;
+  min-height: 30px;
+  min-width: 120px;
+}
+.button_div {
+  display: flex;
+  justify-content: center;
+}
